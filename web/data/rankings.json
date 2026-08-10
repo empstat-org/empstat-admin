@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10 15:22",
+  "generated": "2026-08-10 16:14",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -68,18 +68,6 @@
       "label": "Number of labour inspectors",
       "tier": 2,
       "weight": 1.0
-    },
-    {
-      "code": "EMP_TEMP_SEX_STE_NB",
-      "label": "Employees (register/social security)",
-      "tier": 2,
-      "weight": 1.0
-    },
-    {
-      "code": "HOW_TEMP_SEX_ECO_NB",
-      "label": "Hours of work (establishment/register)",
-      "tier": 2,
-      "weight": 1.0
     }
   ],
   "countries": [
@@ -87,14 +75,14 @@
       "iso3": "ARM",
       "country": "Armenia",
       "region": "Europe and Central Asia",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 55.0,
       "recency": 18.2,
       "latest_year": 2016,
       "latest_period": "2016M04",
       "best_periodicity": "M",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -148,18 +136,6 @@
           "latest": 2010,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -167,14 +143,14 @@
       "iso3": "BHR",
       "country": "Bahrain",
       "region": "Arab States",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 55.0,
       "recency": 54.5,
       "latest_year": 2020,
       "latest_period": "2020",
       "best_periodicity": "M",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -232,18 +208,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -251,14 +215,14 @@
       "iso3": "BIH",
       "country": "Bosnia and Herzegovina",
       "region": "Europe and Central Asia",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 55.0,
       "recency": 18.2,
       "latest_year": 2016,
       "latest_period": "2016M03",
       "best_periodicity": "M",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -308,18 +272,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -327,14 +279,14 @@
       "iso3": "BLR",
       "country": "Belarus",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 50.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2015M12",
       "best_periodicity": "M",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -384,18 +336,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -403,14 +343,14 @@
       "iso3": "BRN",
       "country": "Brunei Darussalam",
       "region": "Asia and the Pacific",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 50.0,
       "recency": 9.1,
       "latest_year": 2015,
       "latest_period": "2015M12",
       "best_periodicity": "M",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -460,18 +400,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -479,14 +407,14 @@
       "iso3": "IMN",
       "country": "Isle of Man",
       "region": "Other",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 50.0,
       "recency": 9.1,
       "latest_year": 2015,
       "latest_period": "2015M05",
       "best_periodicity": "M",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -540,18 +468,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -559,14 +475,14 @@
       "iso3": "JEY",
       "country": "Jersey",
       "region": "Other",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 55.0,
       "recency": 18.2,
       "latest_year": 2016,
       "latest_period": "2016",
       "best_periodicity": "M",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -616,18 +532,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -635,14 +539,14 @@
       "iso3": "KAZ",
       "country": "Kazakhstan",
       "region": "Europe and Central Asia",
-      "coverage": 37.5,
+      "coverage": 45.0,
       "frequency": 80.0,
       "recency": 72.7,
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "M",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -696,18 +600,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -715,14 +607,14 @@
       "iso3": "KGZ",
       "country": "Kyrgyzstan",
       "region": "Europe and Central Asia",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 50.0,
       "recency": 0.0,
       "latest_year": 2011,
       "latest_period": "2011M11",
       "best_periodicity": "M",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -772,18 +664,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -798,7 +678,7 @@
       "latest_period": "2008",
       "best_periodicity": "M",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -852,18 +732,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -871,14 +739,14 @@
       "iso3": "MYS",
       "country": "Malaysia",
       "region": "Asia and the Pacific",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 50.0,
       "recency": 0.0,
       "latest_year": 2014,
       "latest_period": "2014M12",
       "best_periodicity": "M",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -932,18 +800,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -951,14 +807,14 @@
       "iso3": "TJK",
       "country": "Tajikistan",
       "region": "Europe and Central Asia",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 50.0,
       "recency": 9.1,
       "latest_year": 2015,
       "latest_period": "2015",
       "best_periodicity": "M",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1008,18 +864,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1034,7 +878,7 @@
       "latest_period": "2006",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1084,18 +928,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1110,7 +942,7 @@
       "latest_period": "2010",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1164,18 +996,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1183,14 +1003,14 @@
       "iso3": "LIE",
       "country": "Liechtenstein",
       "region": "Europe and Central Asia",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 45.0,
       "recency": 36.4,
       "latest_year": 2018,
       "latest_period": "2018",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1244,18 +1064,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1270,7 +1078,7 @@
       "latest_period": "2005",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1320,18 +1128,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1339,14 +1135,14 @@
       "iso3": "NCL",
       "country": "New Caledonia",
       "region": "Other",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 30.0,
       "recency": 0.0,
       "latest_year": 2013,
       "latest_period": "2013",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1400,18 +1196,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1419,14 +1203,14 @@
       "iso3": "PYF",
       "country": "French Polynesia",
       "region": "Other",
-      "coverage": 12.5,
+      "coverage": 15.0,
       "frequency": 30.0,
       "recency": 0.0,
       "latest_year": 2011,
       "latest_period": "2011",
       "best_periodicity": "A",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1480,18 +1264,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1506,7 +1278,7 @@
       "latest_period": "2007",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1564,18 +1336,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1590,7 +1350,7 @@
       "latest_period": "2008",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1640,18 +1400,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1666,7 +1414,7 @@
       "latest_period": "2004",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1716,14 +1464,66 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
+        }
+      }
+    },
+    {
+      "iso3": "MHL",
+      "country": "Marshall Islands",
+      "region": "Asia and the Pacific",
+      "coverage": 0.0,
+      "frequency": 30.0,
+      "recency": 0.0,
+      "latest_year": 2010,
+      "latest_period": "2010",
+      "best_periodicity": "A",
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "OE - Social Security plus EPPSO Estimates",
+          "latest": 2010
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
           "via": null
         },
-        "HOW_TEMP_SEX_ECO_NB": {
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": 2010,
+          "periodicity": "A",
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
@@ -1735,14 +1535,14 @@
       "iso3": "CHN",
       "country": "China",
       "region": "Asia and the Pacific",
-      "coverage": 12.5,
+      "coverage": 15.0,
       "frequency": 65.0,
       "recency": 72.7,
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "A",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1792,18 +1592,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1811,14 +1599,14 @@
       "iso3": "GTM",
       "country": "Guatemala",
       "region": "Americas",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 35.0,
       "recency": 72.7,
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1868,18 +1656,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1887,14 +1663,14 @@
       "iso3": "LVA",
       "country": "Latvia",
       "region": "Europe and Central Asia",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -1948,18 +1724,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -1967,14 +1731,14 @@
       "iso3": "REU",
       "country": "Réunion",
       "region": "Other",
-      "coverage": 37.5,
+      "coverage": 45.0,
       "frequency": 30.0,
       "recency": 0.0,
       "latest_year": 2014,
       "latest_period": "2014",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2028,18 +1792,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2047,14 +1799,14 @@
       "iso3": "ARG",
       "country": "Argentina",
       "region": "Americas",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2112,18 +1864,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2138,7 +1878,7 @@
       "latest_period": "2008",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2188,18 +1928,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2207,14 +1935,14 @@
       "iso3": "BEL",
       "country": "Belgium",
       "region": "Europe and Central Asia",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 30.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2004",
       "best_periodicity": "A",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2264,18 +1992,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2283,14 +1999,14 @@
       "iso3": "BGR",
       "country": "Bulgaria",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2344,18 +2060,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2363,14 +2067,14 @@
       "iso3": "BLZ",
       "country": "Belize",
       "region": "Americas",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 65.0,
       "recency": 72.7,
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2420,18 +2124,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2439,14 +2131,14 @@
       "iso3": "BRA",
       "country": "Brazil",
       "region": "Americas",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 40.0,
       "recency": 45.5,
       "latest_year": 2019,
       "latest_period": "2017",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2504,18 +2196,6 @@
           "latest": 2013,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2523,14 +2203,14 @@
       "iso3": "CHE",
       "country": "Switzerland",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 70.0,
       "recency": 81.8,
       "latest_year": 2023,
       "latest_period": "2023",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2588,18 +2268,6 @@
           "latest": 2022,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2607,14 +2275,14 @@
       "iso3": "CHL",
       "country": "Chile",
       "region": "Americas",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 40.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2018",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2676,18 +2344,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2695,14 +2351,14 @@
       "iso3": "CRI",
       "country": "Costa Rica",
       "region": "Americas",
-      "coverage": 29.2,
+      "coverage": 35.0,
       "frequency": 30.0,
       "recency": 54.5,
       "latest_year": 2020,
       "latest_period": "2015",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2756,18 +2412,6 @@
           "latest": 2020,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2782,7 +2426,7 @@
       "latest_period": "2008",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2836,18 +2480,6 @@
           "latest": 2010,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2855,14 +2487,14 @@
       "iso3": "CYP",
       "country": "Cyprus",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2916,18 +2548,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -2935,14 +2555,14 @@
       "iso3": "CZE",
       "country": "Czechia",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -2996,18 +2616,6 @@
           "latest": 2023,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3015,14 +2623,14 @@
       "iso3": "DEU",
       "country": "Germany",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3072,18 +2680,6 @@
           "latest": 2023,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3091,14 +2687,14 @@
       "iso3": "DNK",
       "country": "Denmark",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3148,18 +2744,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3167,14 +2751,14 @@
       "iso3": "DOM",
       "country": "Dominican Republic",
       "region": "Americas",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 30.0,
       "recency": 0.0,
       "latest_year": 2014,
       "latest_period": "2008",
       "best_periodicity": "A",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3228,18 +2812,6 @@
           "latest": 2014,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3254,7 +2826,7 @@
       "latest_period": "2004",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3304,18 +2876,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3323,14 +2883,14 @@
       "iso3": "ECU",
       "country": "Ecuador",
       "region": "Americas",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 35.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2023",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3380,18 +2940,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3399,14 +2947,14 @@
       "iso3": "ESP",
       "country": "Spain",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3464,18 +3012,6 @@
           "latest": 2021,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3483,14 +3019,14 @@
       "iso3": "EST",
       "country": "Estonia",
       "region": "Europe and Central Asia",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 30.0,
       "recency": 36.4,
       "latest_year": 2018,
       "latest_period": "2008",
       "best_periodicity": "A",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3544,18 +3080,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3570,7 +3094,7 @@
       "latest_period": "2007",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3620,18 +3144,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3639,14 +3151,14 @@
       "iso3": "GEO",
       "country": "Georgia",
       "region": "Europe and Central Asia",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 50.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3696,18 +3208,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3715,14 +3215,14 @@
       "iso3": "GRC",
       "country": "Greece",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3772,18 +3272,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3791,14 +3279,14 @@
       "iso3": "ISL",
       "country": "Iceland",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 70.0,
       "recency": 81.8,
       "latest_year": 2023,
       "latest_period": "2023",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3848,18 +3336,6 @@
           "latest": 2023,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3867,14 +3343,14 @@
       "iso3": "ISR",
       "country": "Israel",
       "region": "Europe and Central Asia",
-      "coverage": 20.8,
+      "coverage": 25.0,
       "frequency": 55.0,
       "recency": 81.8,
       "latest_year": 2023,
       "latest_period": "2023",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -3924,18 +3400,6 @@
           "latest": 2023,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -3943,14 +3407,14 @@
       "iso3": "ITA",
       "country": "Italy",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4000,18 +3464,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4026,7 +3478,7 @@
       "latest_period": "2006",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4076,18 +3528,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4095,14 +3535,14 @@
       "iso3": "LUX",
       "country": "Luxembourg",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4152,18 +3592,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4171,14 +3599,14 @@
       "iso3": "MEX",
       "country": "Mexico",
       "region": "Americas",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 55.0,
       "recency": 72.7,
       "latest_year": 2022,
       "latest_period": "2021",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4236,18 +3664,6 @@
           "latest": 2018,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4255,14 +3671,14 @@
       "iso3": "NAM",
       "country": "Namibia",
       "region": "Africa",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 30.0,
       "recency": 72.7,
       "latest_year": 2022,
       "latest_period": "2001",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4316,18 +3732,6 @@
           "latest": 2022,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4335,14 +3739,14 @@
       "iso3": "NIC",
       "country": "Nicaragua",
       "region": "Americas",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 30.0,
       "recency": 54.5,
       "latest_year": 2020,
       "latest_period": "2010",
       "best_periodicity": "A",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4404,18 +3808,6 @@
           "latest": 2020,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4423,14 +3815,14 @@
       "iso3": "NLD",
       "country": "Netherlands",
       "region": "Europe and Central Asia",
-      "coverage": 12.5,
+      "coverage": 15.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4480,18 +3872,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4499,14 +3879,14 @@
       "iso3": "NOR",
       "country": "Norway",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4556,18 +3936,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4575,14 +3943,14 @@
       "iso3": "NZL",
       "country": "New Zealand",
       "region": "Asia and the Pacific",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 30.0,
       "recency": 9.1,
       "latest_year": 2015,
       "latest_period": "2015",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4632,18 +4000,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4651,14 +4007,14 @@
       "iso3": "PAN",
       "country": "Panama",
       "region": "Americas",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4716,18 +4072,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4735,14 +4079,14 @@
       "iso3": "PRT",
       "country": "Portugal",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4792,18 +4136,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4811,14 +4143,14 @@
       "iso3": "SGP",
       "country": "Singapore",
       "region": "Asia and the Pacific",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 70.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2023",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4876,18 +4208,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4895,14 +4215,14 @@
       "iso3": "SLV",
       "country": "El Salvador",
       "region": "Americas",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 30.0,
       "recency": 63.6,
       "latest_year": 2021,
       "latest_period": "2010",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -4956,18 +4276,6 @@
           "latest": 2021,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -4975,14 +4283,14 @@
       "iso3": "SVK",
       "country": "Slovakia",
       "region": "Europe and Central Asia",
-      "coverage": 33.3,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 3,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5032,18 +4340,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5051,14 +4347,14 @@
       "iso3": "SYC",
       "country": "Seychelles",
       "region": "Africa",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 35.0,
       "recency": 81.8,
       "latest_year": 2023,
       "latest_period": "2018",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5108,18 +4404,6 @@
           "latest": 2023,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5134,7 +4418,7 @@
       "latest_period": "2004",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5184,18 +4468,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5203,14 +4475,14 @@
       "iso3": "THA",
       "country": "Thailand",
       "region": "Asia and the Pacific",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 60.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5264,18 +4536,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5290,7 +4550,7 @@
       "latest_period": "2004",
       "best_periodicity": "A",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5340,18 +4600,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5359,14 +4607,14 @@
       "iso3": "ZAF",
       "country": "South Africa",
       "region": "Africa",
-      "coverage": 41.7,
+      "coverage": 50.0,
       "frequency": 35.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
       "n_covered": 4,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5416,18 +4664,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5435,14 +4671,14 @@
       "iso3": "ZWE",
       "country": "Zimbabwe",
       "region": "Africa",
-      "coverage": 25.0,
+      "coverage": 30.0,
       "frequency": 30.0,
       "recency": 0.0,
       "latest_year": 2012,
       "latest_period": "2012",
       "best_periodicity": "A",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5492,18 +4728,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5511,14 +4735,14 @@
       "iso3": "ABW",
       "country": "Aruba",
       "region": "Other",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 15.0,
       "recency": 0.0,
       "latest_year": 2013,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5568,18 +4792,6 @@
           "latest": 2011,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5594,7 +4806,7 @@
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5644,18 +4856,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5670,7 +4870,7 @@
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5720,18 +4920,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5739,14 +4927,14 @@
       "iso3": "FRA",
       "country": "France",
       "region": "Europe and Central Asia",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 18.2,
       "latest_year": 2016,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5800,18 +4988,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5826,7 +5002,7 @@
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5876,18 +5052,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5895,14 +5059,14 @@
       "iso3": "JAM",
       "country": "Jamaica",
       "region": "Americas",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 36.4,
       "latest_year": 2018,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -5952,18 +5116,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -5978,7 +5130,7 @@
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6028,18 +5180,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6054,7 +5194,7 @@
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6104,18 +5244,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6130,7 +5258,7 @@
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6180,18 +5308,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6199,14 +5315,14 @@
       "iso3": "TUR",
       "country": "Türkiye",
       "region": "Europe and Central Asia",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 15.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6260,18 +5376,6 @@
           "latest": 2023,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6286,7 +5390,7 @@
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 0,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6336,18 +5440,6 @@
           "latest": null,
           "periodicity": null,
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6355,14 +5447,14 @@
       "iso3": "URY",
       "country": "Uruguay",
       "region": "Americas",
-      "coverage": 16.7,
+      "coverage": 20.0,
       "frequency": 15.0,
       "recency": 54.5,
       "latest_year": 2020,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 2,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6416,18 +5508,6 @@
           "latest": 2018,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6435,14 +5515,14 @@
       "iso3": "BFA",
       "country": "Burkina Faso",
       "region": "Africa",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 72.7,
       "latest_year": 2022,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6492,18 +5572,6 @@
           "latest": 2022,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6511,14 +5579,14 @@
       "iso3": "MKD",
       "country": "North Macedonia",
       "region": "Europe and Central Asia",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 36.4,
       "latest_year": 2018,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6568,18 +5636,6 @@
           "latest": 2018,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6587,14 +5643,14 @@
       "iso3": "PER",
       "country": "Peru",
       "region": "Americas",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 0.0,
       "latest_year": 2012,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6644,18 +5700,6 @@
           "latest": 2012,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6663,14 +5707,14 @@
       "iso3": "POL",
       "country": "Poland",
       "region": "Europe and Central Asia",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 90.9,
       "latest_year": 2024,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6720,18 +5764,6 @@
           "latest": 2024,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6739,14 +5771,14 @@
       "iso3": "PRY",
       "country": "Paraguay",
       "region": "Americas",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 9.1,
       "latest_year": 2015,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6796,18 +5828,6 @@
           "latest": 2015,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6815,14 +5835,14 @@
       "iso3": "ROU",
       "country": "Romania",
       "region": "Europe and Central Asia",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 63.6,
       "latest_year": 2021,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6872,18 +5892,6 @@
           "latest": 2021,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6891,14 +5899,14 @@
       "iso3": "VEN",
       "country": "Venezuela, Bolivarian Republic of",
       "region": "Americas",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 0.0,
       "latest_year": 2012,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -6948,18 +5956,6 @@
           "latest": 2012,
           "periodicity": "A",
           "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
         }
       }
     },
@@ -6967,14 +5963,14 @@
       "iso3": "WSM",
       "country": "Samoa",
       "region": "Asia and the Pacific",
-      "coverage": 8.3,
+      "coverage": 10.0,
       "frequency": 15.0,
       "recency": 81.8,
       "latest_year": 2023,
       "latest_period": null,
       "best_periodicity": "irregular",
       "n_covered": 1,
-      "n_total": 9,
+      "n_total": 7,
       "pending": null,
       "sources": [
         {
@@ -7023,18 +6019,6 @@
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
-          "via": null
-        },
-        "EMP_TEMP_SEX_STE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "via": null
-        },
-        "HOW_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
           "via": null
         }
       }
