@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10 22:47",
+  "generated": "2026-08-11 10:53",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -81,6 +81,11 @@
       "latest_year": 2016,
       "latest_period": "2016M04",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -99,42 +104,55 @@
           "covered": true,
           "latest": 2016,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -149,6 +167,11 @@
       "latest_year": 2020,
       "latest_period": "2020",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -171,42 +194,59 @@
           "covered": true,
           "latest": 2011,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": 2007,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2020,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2020,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -221,6 +261,11 @@
       "latest_year": 2016,
       "latest_period": "2016M03",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -235,42 +280,53 @@
           "covered": true,
           "latest": 2016,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -285,6 +341,11 @@
       "latest_year": 2024,
       "latest_period": "2015M12",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -299,42 +360,55 @@
           "covered": true,
           "latest": 2015,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -349,6 +423,11 @@
       "latest_year": 2015,
       "latest_period": "2015M12",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -363,42 +442,53 @@
           "covered": true,
           "latest": 2015,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -413,6 +503,11 @@
       "latest_year": 2015,
       "latest_period": "2015M05",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -431,42 +526,55 @@
           "covered": true,
           "latest": 2015,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2014,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -481,6 +589,11 @@
       "latest_year": 2016,
       "latest_period": "2016",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -495,42 +608,53 @@
           "covered": true,
           "latest": 2016,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -545,6 +669,11 @@
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -563,42 +692,58 @@
           "covered": false,
           "latest": 2003,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2017,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2017,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -613,6 +758,9 @@
       "latest_year": 2011,
       "latest_period": "2011M11",
       "best_periodicity": "M",
+      "periodicities": [
+        "M"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -627,42 +775,51 @@
           "covered": true,
           "latest": 2011,
           "periodicity": "M",
+          "periodicities": [
+            "M"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -677,6 +834,11 @@
       "latest_year": 2008,
       "latest_period": "2008",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -695,42 +857,56 @@
           "covered": false,
           "latest": 2005,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -745,6 +921,11 @@
       "latest_year": 2014,
       "latest_period": "2014M12",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -763,42 +944,56 @@
           "covered": true,
           "latest": 2014,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -813,6 +1008,11 @@
       "latest_year": 2015,
       "latest_period": "2015",
       "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -827,42 +1027,53 @@
           "covered": true,
           "latest": 2015,
           "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -877,6 +1088,9 @@
       "latest_year": 2006,
       "latest_period": "2006",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -891,42 +1105,51 @@
           "covered": false,
           "latest": 2006,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -941,6 +1164,9 @@
       "latest_year": 2010,
       "latest_period": "2010",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -959,42 +1185,53 @@
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1009,6 +1246,9 @@
       "latest_year": 2018,
       "latest_period": "2018",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -1027,42 +1267,55 @@
           "covered": true,
           "latest": 2017,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": true,
           "latest": 2017,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1077,6 +1330,9 @@
       "latest_year": 2005,
       "latest_period": "2005",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -1091,42 +1347,51 @@
           "covered": false,
           "latest": 2005,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1141,6 +1406,9 @@
       "latest_year": 2013,
       "latest_period": "2013",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -1159,42 +1427,53 @@
           "covered": true,
           "latest": 2013,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2013,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1209,6 +1488,9 @@
       "latest_year": 2011,
       "latest_period": "2011",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -1227,42 +1509,55 @@
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": true,
           "latest": 2011,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": 2003,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1277,6 +1572,9 @@
       "latest_year": 2007,
       "latest_period": "2007",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -1299,42 +1597,55 @@
           "covered": false,
           "latest": 2007,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": 2002,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2005,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1349,6 +1660,9 @@
       "latest_year": 2008,
       "latest_period": "2008",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -1363,42 +1677,51 @@
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1413,6 +1736,9 @@
       "latest_year": 2004,
       "latest_period": "2004",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -1427,42 +1753,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1477,6 +1812,9 @@
       "latest_year": 2010,
       "latest_period": "2010",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -1491,42 +1829,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1541,6 +1888,9 @@
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -1555,42 +1905,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1605,6 +1964,9 @@
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -1619,42 +1981,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1669,6 +2044,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -1687,42 +2065,59 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": 2006,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -1737,6 +2132,9 @@
       "latest_year": 2014,
       "latest_period": "2014",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -1755,42 +2153,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2014,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2014,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1805,6 +2216,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -1827,42 +2241,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1877,6 +2304,9 @@
       "latest_year": 2008,
       "latest_period": "2008",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -1891,42 +2321,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -1941,6 +2382,9 @@
       "latest_year": 2024,
       "latest_period": "2004",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -1955,42 +2399,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -2005,6 +2462,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -2023,42 +2483,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -2073,6 +2544,9 @@
       "latest_year": 2022,
       "latest_period": "2022",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2087,42 +2561,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -2137,6 +2624,9 @@
       "latest_year": 2019,
       "latest_period": "2017",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -2159,42 +2649,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2011,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2017,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2019,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2013,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2209,6 +2714,9 @@
       "latest_year": 2023,
       "latest_period": "2023",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2231,42 +2739,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2281,6 +2802,9 @@
       "latest_year": 2024,
       "latest_period": "2018",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -2307,42 +2831,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2357,6 +2896,9 @@
       "latest_year": 2020,
       "latest_period": "2015",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2375,42 +2917,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2015,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2020,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2020,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2425,6 +2982,9 @@
       "latest_year": 2010,
       "latest_period": "2008",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -2443,42 +3003,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2493,6 +3066,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2511,42 +3087,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2561,6 +3150,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2579,42 +3171,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2629,6 +3234,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2643,42 +3251,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2693,6 +3314,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -2707,42 +3331,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -2757,6 +3392,9 @@
       "latest_year": 2014,
       "latest_period": "2008",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -2775,42 +3413,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2014,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2825,6 +3476,9 @@
       "latest_year": 2004,
       "latest_period": "2004",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -2839,42 +3493,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -2889,6 +3554,9 @@
       "latest_year": 2024,
       "latest_period": "2023",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2903,42 +3571,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2953,6 +3634,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -2975,42 +3659,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2021,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3025,6 +3724,9 @@
       "latest_year": 2018,
       "latest_period": "2008",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -3043,42 +3745,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3093,6 +3808,9 @@
       "latest_year": 2007,
       "latest_period": "2007",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -3107,42 +3825,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2007,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2007,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3157,6 +3886,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -3171,42 +3903,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3221,6 +3968,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -3235,42 +3985,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3285,6 +4046,9 @@
       "latest_year": 2023,
       "latest_period": "2023",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -3299,42 +4063,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3349,6 +4126,9 @@
       "latest_year": 2023,
       "latest_period": "2023",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -3363,42 +4143,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3413,6 +4204,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -3427,42 +4221,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3477,6 +4282,9 @@
       "latest_year": 2006,
       "latest_period": "2006",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -3491,42 +4299,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2006,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2006,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3541,6 +4360,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -3555,42 +4377,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3605,6 +4438,9 @@
       "latest_year": 2022,
       "latest_period": "2021",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -3627,42 +4463,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2021,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2021,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3677,6 +4528,9 @@
       "latest_year": 2022,
       "latest_period": "2001",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -3695,42 +4549,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2001,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2001,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3745,6 +4614,9 @@
       "latest_year": 2020,
       "latest_period": "2010",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -3771,42 +4643,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2009,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2020,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3821,6 +4708,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -3835,42 +4725,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3885,6 +4784,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -3899,42 +4801,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3949,6 +4864,9 @@
       "latest_year": 2015,
       "latest_period": "2015",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -3963,42 +4881,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2015,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2015,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4013,6 +4942,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -4035,42 +4967,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4085,6 +5032,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -4099,42 +5049,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4149,6 +5110,9 @@
       "latest_year": 2024,
       "latest_period": "2023",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -4171,42 +5135,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4221,6 +5200,9 @@
       "latest_year": 2021,
       "latest_period": "2010",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -4239,42 +5221,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2010,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2021,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4289,6 +5286,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 3,
       "n_total": 7,
       "pending": null,
@@ -4303,42 +5303,55 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4353,6 +5366,9 @@
       "latest_year": 2023,
       "latest_period": "2018",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -4367,42 +5383,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4417,6 +5448,9 @@
       "latest_year": 2004,
       "latest_period": "2004",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -4431,42 +5465,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4481,6 +5526,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -4499,42 +5547,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2020,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4549,6 +5612,9 @@
       "latest_year": 2004,
       "latest_period": "2004",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -4563,42 +5629,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4613,6 +5690,9 @@
       "latest_year": 2024,
       "latest_period": "2024",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 4,
       "n_total": 7,
       "pending": null,
@@ -4627,42 +5707,57 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4677,6 +5772,9 @@
       "latest_year": 2012,
       "latest_period": "2012",
       "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -4691,42 +5789,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4741,6 +5850,9 @@
       "latest_year": 2013,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -4755,42 +5867,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2013,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2011,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4805,6 +5928,9 @@
       "latest_year": 2001,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -4819,42 +5945,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2001,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4869,6 +6004,9 @@
       "latest_year": 2008,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -4883,42 +6021,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4933,6 +6080,9 @@
       "latest_year": 2016,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -4951,42 +6101,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2016,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5001,6 +6160,9 @@
       "latest_year": 2007,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -5015,42 +6177,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2007,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5065,6 +6236,9 @@
       "latest_year": 2018,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5079,42 +6253,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5129,6 +6312,9 @@
       "latest_year": 2002,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -5143,42 +6329,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2002,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5193,6 +6388,9 @@
       "latest_year": 2008,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -5207,42 +6405,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5257,6 +6464,9 @@
       "latest_year": 2003,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -5271,42 +6481,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2003,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5321,6 +6540,9 @@
       "latest_year": 2024,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -5339,42 +6561,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5389,6 +6622,9 @@
       "latest_year": 2004,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 0,
       "n_total": 7,
       "pending": null,
@@ -5403,42 +6639,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": 2004,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5453,6 +6698,9 @@
       "latest_year": 2020,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 2,
       "n_total": 7,
       "pending": null,
@@ -5471,42 +6719,53 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2020,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5521,6 +6780,9 @@
       "latest_year": 2022,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5535,42 +6797,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2022,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5585,6 +6856,9 @@
       "latest_year": 2018,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5599,42 +6873,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2018,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5649,6 +6932,9 @@
       "latest_year": 2012,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5663,42 +6949,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5713,6 +7008,9 @@
       "latest_year": 2024,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5727,42 +7025,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5777,6 +7084,9 @@
       "latest_year": 2015,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5791,42 +7101,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2015,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5841,6 +7160,9 @@
       "latest_year": 2021,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5855,42 +7177,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2021,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5905,6 +7236,9 @@
       "latest_year": 2012,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5919,42 +7253,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2012,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5969,6 +7312,9 @@
       "latest_year": 2023,
       "latest_period": null,
       "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
       "n_covered": 1,
       "n_total": 7,
       "pending": null,
@@ -5983,42 +7329,51 @@
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2023,
           "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
