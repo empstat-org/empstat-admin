@@ -6,10 +6,10 @@
 <title>Administrative Data Coverage Index — ILOSTAT</title>
 <style>
   :root{
-    --brand:#1a5bad; --brand-dark:#123f83; --brand-light:#e7effb;
+    --brand:#8a1f3d; --brand-dark:#5e142a; --brand-light:#f6e8ec;
     --ink:#1b2536; --muted:#5c6d85; --line:#e3e9f1; --bg:#f6f8fc; --card:#fff;
     --good:#1c9463; --mid:#e3ad0a; --low:#d55c52;
-    --cov:#1a5bad; --frq:#33a294; --rec:#7e5fd4;
+    --cov:#8a1f3d; --frq:#33a294; --rec:#7e5fd4;
     --shadow:0 1px 3px rgba(16,32,64,.08),0 6px 24px rgba(16,32,64,.06);
   }
   *{box-sizing:border-box}
@@ -310,6 +310,10 @@ function overall(c){
   return (c.coverage*w.coverage + c.frequency*w.frequency + c.recency*w.recency)/tot;
 }
 function scoreColor(v){ return v>=70?"var(--good)":v>=45?"var(--mid)":"var(--low)"; }
+function perTags(list, fallback){
+  let ps = (list && list.length) ? list : (fallback && fallback!=="irregular" ? [fallback] : []);
+  return ps.map(p=>`<span class="tag">${p}</span>`).join(" ");
+}
 
 // frequency filter: a country's fastest sustained cadence for headline indicators
 function matchPeriod(c, sel){
@@ -368,7 +372,7 @@ function render(){
       <td><div class="subbars"><span class="mini">${fmt(c.coverage)}</span>${subBar(c.coverage,"var(--cov)")}</div></td>
       <td><div class="subbars"><span class="mini">${fmt(c.frequency)}</span>${subBar(c.frequency,"var(--frq)")}</div></td>
       <td><div class="subbars"><span class="mini">${fmt(c.recency)}</span>${subBar(c.recency,"var(--rec)")}</div></td>
-      <td>${c.latest_year??"—"}${c.best_periodicity&&c.best_periodicity!=="irregular"?` <span class="tag">${c.best_periodicity}</span>`:""}</td>`;
+      <td>${c.latest_year??"—"} ${perTags(c.periodicities, c.best_periodicity)}</td>`;
     tr.onclick=()=>openDrawer(c.iso3);
     tb.appendChild(tr);
   });
@@ -407,7 +411,7 @@ function openDrawer(iso){
       html+=`<tr class="${t===2?'tier2':''}">
         <td class="st">${cov?'<span class="yes">●</span>':'<span class="no">○</span>'}</td>
         <td>${ind.label}</td>
-        <td style="text-align:right;color:var(--muted)">${cov?`${rec.latest??""} ${rec.periodicity?`<span class="tag">${rec.periodicity}</span>`:""}`:"no data"}</td>
+        <td style="text-align:right;color:var(--muted)">${cov?`${rec.latest??""} ${perTags(rec.periodicities, rec.periodicity)}`:"no data"}</td>
       </tr>`;
     });
   });
