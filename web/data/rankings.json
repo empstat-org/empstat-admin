@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11 11:50",
+  "generated": "2026-08-11 12:32",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -93,10 +93,6 @@
         {
           "name": "ADM-EOR - Employment Office Records",
           "latest": 2016
-        },
-        {
-          "name": "ADM-LIR - Records of Labour Inspection of Republic of Armenia",
-          "latest": 2010
         }
       ],
       "indicators": {
@@ -148,11 +144,9 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
-          "latest": 2010,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -161,8 +155,8 @@
       "iso3": "BHR",
       "country": "Bahrain",
       "region": "Arab States",
-      "coverage": 50.0,
-      "frequency": 55.0,
+      "coverage": 65.0,
+      "frequency": 75.0,
       "recency": 54.5,
       "latest_year": 2020,
       "latest_period": "2020",
@@ -172,12 +166,16 @@
         "Q",
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 4,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
           "name": "ADM-IR - Insurance Records",
+          "latest": 2020
+        },
+        {
+          "name": "ADM-IR - Social Insurance organization Records",
           "latest": 2020
         },
         {
@@ -209,8 +207,8 @@
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": 2007,
+          "covered": true,
+          "latest": 2020,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -825,6 +823,275 @@
       }
     },
     {
+      "iso3": "KOS",
+      "country": "Kosovo",
+      "region": "Other",
+      "coverage": 35.0,
+      "frequency": 70.0,
+      "recency": 45.5,
+      "latest_year": 2019,
+      "latest_period": "2019",
+      "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Payroll and Payment Records",
+          "latest": 2019
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": true,
+          "latest": 2014,
+          "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": true,
+          "latest": 2019,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "LIE",
+      "country": "Liechtenstein",
+      "region": "Europe and Central Asia",
+      "coverage": 50.0,
+      "frequency": 65.0,
+      "recency": 36.4,
+      "latest_year": 2018,
+      "latest_period": "2018",
+      "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
+      "n_covered": 3,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Other Administrative records and related sources",
+          "latest": 2018
+        },
+        {
+          "name": "ADM - Administrative Register",
+          "latest": 2017
+        },
+        {
+          "name": "ADM-EOR - Records of the Unemployment Insurance Office",
+          "latest": 2014
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": true,
+          "latest": 2017,
+          "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": true,
+          "latest": 2017,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "MNG",
+      "country": "Mongolia",
+      "region": "Asia and the Pacific",
+      "coverage": 70.0,
+      "frequency": 90.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
+      "n_covered": 5,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-EOR - Report of the Minister for Labour and Social Protection",
+          "latest": 2024
+        },
+        {
+          "name": "ADM-IR - Report of the General Agency for Specialized Inspection",
+          "latest": 2024
+        },
+        {
+          "name": "ADM-EOR - Monthly report of the Ministry of Labour",
+          "latest": 2015
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q"
+          ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "MUS",
       "country": "Mauritius",
       "region": "Africa",
@@ -915,21 +1182,29 @@
       "iso3": "MYS",
       "country": "Malaysia",
       "region": "Asia and the Pacific",
-      "coverage": 50.0,
-      "frequency": 50.0,
-      "recency": 0.0,
-      "latest_year": 2014,
-      "latest_period": "2014M12",
+      "coverage": 70.0,
+      "frequency": 65.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": "2022",
       "best_periodicity": "M",
       "periodicities": [
         "M",
         "Q",
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 5,
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2022
+        },
+        {
+          "name": "ADM - Records of the Ministry of Human ReSources",
+          "latest": 2022
+        },
         {
           "name": "ADM-EOR - Registered Unemployment",
           "latest": 2014
@@ -966,7 +1241,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2012,
+          "latest": 2022,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -975,7 +1250,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
-          "latest": 2012,
+          "latest": 2022,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -983,17 +1258,21 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -1079,22 +1358,110 @@
       }
     },
     {
+      "iso3": "TLS",
+      "country": "Timor-Leste",
+      "region": "Asia and the Pacific",
+      "coverage": 20.0,
+      "frequency": 50.0,
+      "recency": 0.0,
+      "latest_year": 2013,
+      "latest_period": "2013Q3",
+      "best_periodicity": "M",
+      "periodicities": [
+        "M",
+        "Q",
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-EOR - Records of the Secretary of Sate for Vocational Training and Employment",
+          "latest": 2013
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": true,
+          "latest": 2013,
+          "periodicity": "M",
+          "periodicities": [
+            "M",
+            "Q",
+            "A"
+          ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "ALB",
       "country": "Albania",
       "region": "Europe and Central Asia",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2006,
-      "latest_period": "2006",
+      "coverage": 15.0,
+      "frequency": 65.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": "2022",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 0,
+      "n_covered": 1,
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM-IR - General Directorate of Taxation",
+          "latest": 2022
+        },
+        {
+          "name": "ADM - Annual Structural Survey of Economic Enterprises",
+          "latest": 2010
+        },
         {
           "name": "ADM-EOR - Registered Unemployment",
           "latest": 2006
@@ -1118,10 +1485,12 @@
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
@@ -1237,14 +1606,14 @@
       }
     },
     {
-      "iso3": "LIE",
-      "country": "Liechtenstein",
-      "region": "Europe and Central Asia",
+      "iso3": "GGY",
+      "country": "Guernsey",
+      "region": "Other",
       "coverage": 50.0,
-      "frequency": 45.0,
-      "recency": 36.4,
-      "latest_year": 2018,
-      "latest_period": "2018",
+      "frequency": 35.0,
+      "recency": 18.2,
+      "latest_year": 2016,
+      "latest_period": "2016",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -1254,18 +1623,14 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Other Administrative records and related sources",
-          "latest": 2018
-        },
-        {
-          "name": "ADM - Administrative Register",
-          "latest": 2017
+          "name": "ADM - Official Estimates",
+          "latest": 2016
         }
       ],
       "indicators": {
         "UNE_TUNE_SEX_AGE_NB": {
           "covered": true,
-          "latest": 2017,
+          "latest": 2016,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -1274,7 +1639,7 @@
         },
         "EMP_TEMP_SEX_ECO_NB": {
           "covered": true,
-          "latest": 2017,
+          "latest": 2016,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -1283,11 +1648,165 @@
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": true,
-          "latest": 2018,
+          "latest": 2016,
           "periodicity": "A",
           "periodicities": [
             "A"
           ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "GIB",
+      "country": "Gibraltar",
+      "region": "Other",
+      "coverage": 0.0,
+      "frequency": 30.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": "2008",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-EOR - Monthly Unemployment Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "GRL",
+      "country": "Greenland",
+      "region": "Other",
+      "coverage": 35.0,
+      "frequency": 30.0,
+      "recency": 9.1,
+      "latest_year": 2015,
+      "latest_period": "2015",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Employment and Unemployment for permanent residents",
+          "latest": 2015
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
@@ -1397,35 +1916,35 @@
       }
     },
     {
-      "iso3": "NCL",
-      "country": "New Caledonia",
-      "region": "Other",
-      "coverage": 30.0,
+      "iso3": "MMR",
+      "country": "Myanmar",
+      "region": "Asia and the Pacific",
+      "coverage": 0.0,
       "frequency": 30.0,
       "recency": 0.0,
-      "latest_year": 2013,
-      "latest_period": "2013",
+      "latest_year": 2008,
+      "latest_period": "2008",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 2,
+      "n_covered": 0,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
           "name": "ADM - Other Administrative records and related sources",
-          "latest": 2013
+          "latest": 2008
         },
         {
-          "name": "ADM-EOR - Statistics on Registered Unemployed Persons",
-          "latest": 2013
+          "name": "ADM-EOR - Employment Exchange Statistics",
+          "latest": 2008
         }
       ],
       "indicators": {
         "UNE_TUNE_SEX_AGE_NB": {
-          "covered": true,
-          "latest": 2013,
+          "covered": false,
+          "latest": 2008,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -1461,12 +1980,180 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "NCL",
+      "country": "New Caledonia",
+      "region": "Other",
+      "coverage": 60.0,
+      "frequency": 30.0,
+      "recency": 9.1,
+      "latest_year": 2015,
+      "latest_period": "2015",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - Records of the Enterprises' and Establishments' identification directory and of the Family allowances fund",
+          "latest": 2015
+        },
+        {
+          "name": "ADM - Other Administrative records and related sources",
+          "latest": 2013
+        },
+        {
+          "name": "ADM-EOR - Statistics on Registered Unemployed Persons",
+          "latest": 2013
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
           "covered": true,
           "latest": 2013,
           "periodicity": "A",
           "periodicities": [
             "A"
           ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2013,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "OMN",
+      "country": "Oman",
+      "region": "Arab States",
+      "coverage": 35.0,
+      "frequency": 35.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": "2022",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Records of the Directorate General of Civil Status",
+          "latest": 2022
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -1803,25 +2490,25 @@
       }
     },
     {
-      "iso3": "MHL",
-      "country": "Marshall Islands",
-      "region": "Asia and the Pacific",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2010,
-      "latest_period": "2010",
+      "iso3": "MCO",
+      "country": "Monaco",
+      "region": "Europe and Central Asia",
+      "coverage": 25.0,
+      "frequency": 55.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": "2022",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 0,
+      "n_covered": 2,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
-          "name": "OE - Social Security plus EPPSO Estimates",
-          "latest": 2010
+          "name": "ADM - Social Insurance Funds",
+          "latest": 2022
         }
       ],
       "indicators": {
@@ -1833,8 +2520,8 @@
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": 2010,
+          "covered": true,
+          "latest": 2022,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -1870,10 +2557,112 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "ARG",
+      "country": "Argentina",
+      "region": "Americas",
+      "coverage": 50.0,
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - National plan for employment registration",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Register of Work Accidents and Occupational Injuries",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Administrative records and related sources",
+          "latest": 2018
+        },
+        {
+          "name": "ADM - Integrated Provisional System of Argentina",
+          "latest": 2007
+        },
+        {
+          "name": "ADM-IR - Insurance Records",
+          "latest": 2007
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
           "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": 2007,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -1950,6 +2739,96 @@
           "latest": null,
           "periodicity": null,
           "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "CUB",
+      "country": "Cuba",
+      "region": "Americas",
+      "coverage": 0.0,
+      "frequency": 30.0,
+      "recency": 0.0,
+      "latest_year": 2010,
+      "latest_period": "2010",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Administrative Records of the Ministry of Labour and Social Security",
+          "latest": 2010
+        },
+        {
+          "name": "ADM - National Statistical Information System",
+          "latest": 2010
+        },
+        {
+          "name": "ADM - Other Administrative records and related sources",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": 2006,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2035,14 +2914,14 @@
       }
     },
     {
-      "iso3": "LVA",
-      "country": "Latvia",
-      "region": "Europe and Central Asia",
-      "coverage": 50.0,
-      "frequency": 75.0,
-      "recency": 90.9,
-      "latest_year": 2024,
-      "latest_period": "2024",
+      "iso3": "NZL",
+      "country": "New Zealand",
+      "region": "Asia and the Pacific",
+      "coverage": 55.0,
+      "frequency": 65.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": "2022",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -2052,12 +2931,16 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM-LIR - State Labour Inspection Records",
-          "latest": 2024
+          "name": "ADM - Linked employer-employee data",
+          "latest": 2022
         },
         {
-          "name": "ES - Survey of economically Active commercial companies, individual merchants, peasant or fishermen farms, budgetary institutions, foundations, associations or funds, as well as Administrative data.",
-          "latest": 2023
+          "name": "ADM-EOR - Work stoppages records",
+          "latest": 2019
+        },
+        {
+          "name": "ADM-IR - Insurance Records",
+          "latest": 2015
         }
       ],
       "indicators": {
@@ -2076,8 +2959,8 @@
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": 2006,
+          "covered": true,
+          "latest": 2022,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2086,7 +2969,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2024,
+          "latest": 2015,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2095,7 +2978,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
-          "latest": 2024,
+          "latest": 2015,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2104,7 +2987,7 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2019,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2112,12 +2995,10 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -2207,33 +3088,33 @@
       }
     },
     {
-      "iso3": "ARG",
-      "country": "Argentina",
-      "region": "Americas",
-      "coverage": 40.0,
-      "frequency": 75.0,
+      "iso3": "SGP",
+      "country": "Singapore",
+      "region": "Asia and the Pacific",
+      "coverage": 20.0,
+      "frequency": 30.0,
       "recency": 90.9,
       "latest_year": 2024,
-      "latest_period": "2024",
+      "latest_period": "2010",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 2,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Register of Work Accidents and Occupational Injuries",
+          "name": "ADM - Administrative Records",
           "latest": 2024
         },
         {
-          "name": "ADM - Administrative records and related sources",
-          "latest": 2018
+          "name": "ADM-IR - Records of the Central Provident Fund",
+          "latest": 2010
         },
         {
-          "name": "ADM-IR - Insurance Records",
-          "latest": 2007
+          "name": "ADM - Administrative records and related sources",
+          "latest": 2008
         }
       ],
       "indicators": {
@@ -2253,14 +3134,16 @@
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "INJ_FATL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
+          "covered": false,
+          "latest": 2008,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2268,8 +3151,8 @@
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
+          "covered": false,
+          "latest": 2008,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2278,7 +3161,7 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
-          "latest": 2018,
+          "latest": 2015,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2286,10 +3169,100 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "SYC",
+      "country": "Seychelles",
+      "region": "Africa",
+      "coverage": 65.0,
+      "frequency": 45.0,
+      "recency": 81.8,
+      "latest_year": 2023,
+      "latest_period": "2022",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 5,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-EOR - Employment office records",
+          "latest": 2023
+        },
+        {
+          "name": "ADM-IR - Records of the Treasury Department and Seychelles Revenue Commission",
+          "latest": 2022
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
           "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2298,19 +3271,39 @@
       "iso3": "AUS",
       "country": "Australia",
       "region": "Asia and the Pacific",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2008,
-      "latest_period": "2008",
+      "coverage": 50.0,
+      "frequency": 65.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2023",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 0,
+      "n_covered": 4,
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Industrial Disputes",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Comparative Performance Monitoring Report",
+          "latest": 2023
+        },
+        {
+          "name": "ADM - Work-related Traumatic Injury Fatalities Records",
+          "latest": 2023
+        },
+        {
+          "name": "ADM-IR - National Dataset for Compensation-based Statistics",
+          "latest": 2023
+        },
+        {
+          "name": "ADM-IR - National Data Standards for Injury Surveillance Records",
+          "latest": 2022
+        },
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2008
@@ -2339,8 +3332,8 @@
           "via": null
         },
         "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": 2008,
+          "covered": true,
+          "latest": 2023,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2348,8 +3341,90 @@
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "AUT",
+      "country": "Austria",
+      "region": "Europe and Central Asia",
+      "coverage": 30.0,
+      "frequency": 70.0,
+      "recency": 81.8,
+      "latest_year": 2023,
+      "latest_period": "2023",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - Database Records from all insurance companies",
+          "latest": 2023
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
           "covered": false,
-          "latest": 2008,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2023,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2376,19 +3451,23 @@
       "iso3": "BEL",
       "country": "Belgium",
       "region": "Europe and Central Asia",
-      "coverage": 10.0,
-      "frequency": 30.0,
+      "coverage": 40.0,
+      "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
-      "latest_period": "2004",
+      "latest_period": "2024",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 1,
+      "n_covered": 3,
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM-IR - Insurance Companies records",
+          "latest": 2024
+        },
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2024
@@ -2417,8 +3496,8 @@
           "via": null
         },
         "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": 2004,
+          "covered": true,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2426,8 +3505,8 @@
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": 2004,
+          "covered": true,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2538,7 +3617,7 @@
       "iso3": "BLZ",
       "country": "Belize",
       "region": "Americas",
-      "coverage": 40.0,
+      "coverage": 50.0,
       "frequency": 65.0,
       "recency": 72.7,
       "latest_year": 2022,
@@ -2547,10 +3626,14 @@
       "periodicities": [
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 4,
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Ministry of labour, local government, rural development, immigration & nationality and national emergency management records",
+          "latest": 2022
+        },
         {
           "name": "ADM-EBR - Social Security Board Records",
           "latest": 2022
@@ -2606,10 +3689,12 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -2620,8 +3705,8 @@
       "region": "Americas",
       "coverage": 50.0,
       "frequency": 40.0,
-      "recency": 45.5,
-      "latest_year": 2019,
+      "recency": 27.3,
+      "latest_year": 2017,
       "latest_period": "2017",
       "best_periodicity": "A",
       "periodicities": [
@@ -2632,16 +3717,16 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM-RWO - Administrative records and related sources",
-          "latest": 2019
-        },
-        {
           "name": "ADM-IR - Insurance Records",
           "latest": 2017
         },
         {
           "name": "ADM - Other Administrative records and related sources",
           "latest": 2013
+        },
+        {
+          "name": "ADM - Printed or online articles from big media or union journals",
+          "latest": 2012
         }
       ],
       "indicators": {
@@ -2686,7 +3771,7 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
-          "latest": 2019,
+          "latest": 2012,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2710,8 +3795,8 @@
       "region": "Europe and Central Asia",
       "coverage": 40.0,
       "frequency": 70.0,
-      "recency": 81.8,
-      "latest_year": 2023,
+      "recency": 90.9,
+      "latest_year": 2024,
       "latest_period": "2023",
       "best_periodicity": "A",
       "periodicities": [
@@ -2722,12 +3807,12 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Register of the compulsory accident insurance",
-          "latest": 2023
+          "name": "ADM - Structural and Demographic Business Statistics",
+          "latest": 2024
         },
         {
-          "name": "ADM-LIR - Labour Inspection Records",
-          "latest": 2022
+          "name": "ADM - Register of the compulsory accident insurance",
+          "latest": 2023
         },
         {
           "name": "ADM-IR - Accident declarations registered by the Accident Insurance Central Statistical Service",
@@ -2783,7 +3868,7 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
-          "latest": 2022,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2796,7 +3881,7 @@
       "iso3": "CHL",
       "country": "Chile",
       "region": "Americas",
-      "coverage": 50.0,
+      "coverage": 40.0,
       "frequency": 40.0,
       "recency": 90.9,
       "latest_year": 2024,
@@ -2805,7 +3890,7 @@
       "periodicities": [
         "A"
       ],
-      "n_covered": 4,
+      "n_covered": 3,
       "n_total": 7,
       "pending": null,
       "sources": [
@@ -2814,12 +3899,12 @@
           "latest": 2024
         },
         {
-          "name": "ADM-LIR - Administrative Records of the Human ReSources Department of the Labour Directorate",
-          "latest": 2024
-        },
-        {
           "name": "ADM - Social Security Board Records",
           "latest": 2018
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
         },
         {
           "name": "ADM-IR - Insurance Records",
@@ -2876,8 +3961,90 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "COL",
+      "country": "Colombia",
+      "region": "Americas",
+      "coverage": 40.0,
+      "frequency": 65.0,
+      "recency": 81.8,
+      "latest_year": 2023,
+      "latest_period": "2023",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 3,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2023
+        },
+        {
+          "name": "ADM - Ministry of Health and Social Protection",
+          "latest": 2023
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2024,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2023,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2890,23 +4057,19 @@
       "iso3": "CRI",
       "country": "Costa Rica",
       "region": "Americas",
-      "coverage": 35.0,
+      "coverage": 15.0,
       "frequency": 30.0,
-      "recency": 54.5,
-      "latest_year": 2020,
+      "recency": 9.1,
+      "latest_year": 2015,
       "latest_period": "2015",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 1,
       "n_total": 7,
       "pending": null,
       "sources": [
-        {
-          "name": "ADM-LIR - Administrative Records of the Ministry of Labour and Social Security",
-          "latest": 2020
-        },
         {
           "name": "ADM-IR - Records of Social Security Fund",
           "latest": 2015
@@ -2953,92 +4116,6 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": true,
-          "latest": 2020,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2020,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "CUB",
-      "country": "Cuba",
-      "region": "Americas",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2010,
-      "latest_period": "2008",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 0,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM - Administrative Records of the Ministry of Labour and Social Security",
-          "latest": 2010
-        },
-        {
-          "name": "ADM - Other Administrative records and related sources",
-          "latest": 2008
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": 2008,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": 2008,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
@@ -3047,11 +4124,9 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
-          "latest": 2010,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3060,21 +4135,21 @@
       "iso3": "CYP",
       "country": "Cyprus",
       "region": "Europe and Central Asia",
-      "coverage": 40.0,
-      "frequency": 75.0,
+      "coverage": 20.0,
+      "frequency": 30.0,
       "recency": 90.9,
       "latest_year": 2024,
-      "latest_period": "2024",
+      "latest_period": "2001",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 2,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
-          "name": "ADM-LIR - Department of Labour Inspection",
+          "name": "ADM - Ministry of Labour and Social Insurance, Deparment of Labour Relations",
           "latest": 2024
         },
         {
@@ -3105,8 +4180,8 @@
           "via": null
         },
         "INJ_FATL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
+          "covered": false,
+          "latest": 2001,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3114,6 +4189,15 @@
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": 2001,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
           "covered": true,
           "latest": 2024,
           "periodicity": "A",
@@ -3122,16 +4206,9 @@
           ],
           "via": null
         },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
         "LAI_INSP_SEX_NB": {
           "covered": true,
-          "latest": 2024,
+          "latest": 2021,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3144,7 +4221,7 @@
       "iso3": "CZE",
       "country": "Czechia",
       "region": "Europe and Central Asia",
-      "coverage": 40.0,
+      "coverage": 15.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
@@ -3153,16 +4230,12 @@
       "periodicities": [
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 1,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
           "name": "ADM - Administrative data from Social Security Administration",
-          "latest": 2024
-        },
-        {
-          "name": "ADM-LIR - State Labour Inspection Records",
           "latest": 2024
         }
       ],
@@ -3189,8 +4262,8 @@
           "via": null
         },
         "INJ_FATL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
+          "covered": false,
+          "latest": 2008,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3214,12 +4287,10 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2023,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3228,7 +4299,7 @@
       "iso3": "DEU",
       "country": "Germany",
       "region": "Europe and Central Asia",
-      "coverage": 40.0,
+      "coverage": 50.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
@@ -3237,13 +4308,21 @@
       "periodicities": [
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 4,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
+          "name": "ADM - Records on Strikes and Lockouts of the Federal Employment Agency",
+          "latest": 2024
+        },
+        {
           "name": "ADM-IR - Insurance Records",
           "latest": 2024
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
         }
       ],
       "indicators": {
@@ -3287,10 +4366,12 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -3386,23 +4467,19 @@
       "iso3": "DOM",
       "country": "Dominican Republic",
       "region": "Americas",
-      "coverage": 10.0,
+      "coverage": 0.0,
       "frequency": 30.0,
       "recency": 0.0,
-      "latest_year": 2014,
+      "latest_year": 2008,
       "latest_period": "2008",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 1,
+      "n_covered": 0,
       "n_total": 7,
       "pending": null,
       "sources": [
-        {
-          "name": "ADM-LIR - Administrative Records of the Ministry of Labour",
-          "latest": 2014
-        },
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2008
@@ -3456,12 +4533,10 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2014,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3483,6 +4558,10 @@
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2004
+        },
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2004
@@ -3530,9 +4609,11 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "latest": 2004,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -3564,6 +4645,10 @@
         {
           "name": "ADM - Administrative records of the Ministry of Labour",
           "latest": 2024
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
         }
       ],
       "indicators": {
@@ -3608,9 +4693,11 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -3642,12 +4729,12 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM-IR - Insurance Records",
+          "name": "ADM - Strikes and lockouts statistics",
           "latest": 2024
         },
         {
-          "name": "ADM-LIR - Annual Report from Labour Inspection and Social Security",
-          "latest": 2021
+          "name": "ADM-IR - Insurance Records",
+          "latest": 2024
         },
         {
           "name": "ADM - Administrative Records of membership of the Social Security System",
@@ -3695,8 +4782,8 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": 2008,
+          "covered": true,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3704,12 +4791,10 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2021,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -3802,19 +4887,27 @@
       "iso3": "FIN",
       "country": "Finland",
       "region": "Europe and Central Asia",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2007,
-      "latest_period": "2007",
+      "coverage": 40.0,
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 0,
+      "n_covered": 3,
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Federation of Accidents Insurance Institutions Records",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Records of the Ministry of Social Affairs and Health",
+          "latest": 2022
+        },
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2007
@@ -3843,8 +4936,8 @@
           "via": null
         },
         "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": 2007,
+          "covered": true,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3852,8 +4945,8 @@
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": 2007,
+          "covered": true,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3868,10 +4961,192 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "FRA",
+      "country": "France",
+      "region": "Europe and Central Asia",
+      "coverage": 50.0,
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - Records of the CNAM, employees",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Annual Statement of Social Data",
+          "latest": 2019
+        },
+        {
+          "name": "ADM - Administrative Records of the DARES",
+          "latest": 2016
+        },
+        {
+          "name": "ADM - Administrative data on strikes in the Public Administration",
+          "latest": 2014
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
           "covered": false,
           "latest": null,
           "periodicity": null,
           "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2016,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2019,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "GBR",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "region": "Europe and Central Asia",
+      "coverage": 50.0,
+      "frequency": 45.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2018",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour disputes Records",
+          "latest": 2024
+        },
+        {
+          "name": "ADM-IR - Labour Inspectorate Records",
+          "latest": 2024
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -3959,6 +5234,84 @@
       }
     },
     {
+      "iso3": "GLP",
+      "country": "Guadeloupe",
+      "region": "Other",
+      "coverage": 30.0,
+      "frequency": 30.0,
+      "recency": 0.0,
+      "latest_year": 2014,
+      "latest_period": "2014",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Annual Statement of Social Data",
+          "latest": 2014
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2014,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2014,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "GRC",
       "country": "Greece",
       "region": "Europe and Central Asia",
@@ -4014,6 +5367,162 @@
         "INJ_NFTL_ECO_RT": {
           "covered": true,
           "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "HRV",
+      "country": "Croatia",
+      "region": "Europe and Central Asia",
+      "coverage": 30.0,
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - Institute of Public Health",
+          "latest": 2024
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "IND",
+      "country": "India",
+      "region": "Asia and the Pacific",
+      "coverage": 0.0,
+      "frequency": 30.0,
+      "recency": 0.0,
+      "latest_year": 2007,
+      "latest_period": "2007",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - Labour Inspectorate Records",
+          "latest": 2007
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": 2007,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": 2007,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -4120,11 +5629,11 @@
       "iso3": "ISR",
       "country": "Israel",
       "region": "Europe and Central Asia",
-      "coverage": 25.0,
-      "frequency": 55.0,
-      "recency": 81.8,
-      "latest_year": 2023,
-      "latest_period": "2023",
+      "coverage": 30.0,
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -4134,8 +5643,8 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM-LIR - Administrative Records of the Ministry of Industry, Trade and Labor",
-          "latest": 2023
+          "name": "ADM-IR - Records of the National Insurance Institute",
+          "latest": 2024
         }
       ],
       "indicators": {
@@ -4162,7 +5671,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2022,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -4170,10 +5679,12 @@
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
@@ -4184,12 +5695,10 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2023,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -4292,6 +5801,10 @@
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2006
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2005
         }
       ],
       "indicators": {
@@ -4336,9 +5849,11 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "latest": 2005,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -4346,6 +5861,98 @@
           "latest": null,
           "periodicity": null,
           "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "KOR",
+      "country": "Republic of Korea",
+      "region": "Asia and the Pacific",
+      "coverage": 35.0,
+      "frequency": 65.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 3,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Industrial Relations Support Division Records",
+          "latest": 2024
+        },
+        {
+          "name": "ADM-IR - Occupational Accidents and Injuries Records",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Working Conditions Records",
+          "latest": 2023
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -4519,6 +6126,92 @@
       }
     },
     {
+      "iso3": "MLT",
+      "country": "Malta",
+      "region": "Europe and Central Asia",
+      "coverage": 50.0,
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Records of Injury Benefits",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Records of the Department of Industrial and Employment Relations",
+          "latest": 2023
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2012,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "NAM",
       "country": "Namibia",
       "region": "Africa",
@@ -4626,6 +6319,10 @@
           "latest": 2020
         },
         {
+          "name": "ADM - Human ReSources report of the Ministry of Labour",
+          "latest": 2013
+        },
+        {
           "name": "ADM - Administrative Records of the Office for Economic and Social Statistics in the Ministry of Labour",
           "latest": 2010
         },
@@ -4702,167 +6399,11 @@
       "iso3": "NLD",
       "country": "Netherlands",
       "region": "Europe and Central Asia",
-      "coverage": 15.0,
-      "frequency": 75.0,
-      "recency": 90.9,
-      "latest_year": 2024,
-      "latest_period": "2024",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 1,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-IR - Insurance Records",
-          "latest": 2024
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "NOR",
-      "country": "Norway",
-      "region": "Europe and Central Asia",
-      "coverage": 40.0,
-      "frequency": 75.0,
-      "recency": 90.9,
-      "latest_year": 2024,
-      "latest_period": "2024",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 3,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-LIR - Directorate of labour Inspection Records",
-          "latest": 2024
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "NZL",
-      "country": "New Zealand",
-      "region": "Asia and the Pacific",
       "coverage": 30.0,
-      "frequency": 30.0,
-      "recency": 9.1,
-      "latest_year": 2015,
-      "latest_period": "2015",
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -4873,7 +6414,11 @@
       "sources": [
         {
           "name": "ADM-IR - Insurance Records",
-          "latest": 2015
+          "latest": 2024
+        },
+        {
+          "name": "ADM-IR - Working Conditions Survey",
+          "latest": 2024
         }
       ],
       "indicators": {
@@ -4900,7 +6445,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2015,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -4909,7 +6454,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
-          "latest": 2015,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -4936,25 +6481,21 @@
       "iso3": "PAN",
       "country": "Panama",
       "region": "Americas",
-      "coverage": 50.0,
-      "frequency": 75.0,
+      "coverage": 10.0,
+      "frequency": 30.0,
       "recency": 90.9,
       "latest_year": 2024,
-      "latest_period": "2024",
+      "latest_period": "2006",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 4,
+      "n_covered": 1,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
           "name": "ADM - Administrative Records of the General Directorate for Labour and of the Labour Relations Department",
-          "latest": 2024
-        },
-        {
-          "name": "ADM-LIR - Administrative Records of the Directorate for Labour Inspection",
           "latest": 2024
         },
         {
@@ -4985,8 +6526,8 @@
           "via": null
         },
         "INJ_FATL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
+          "covered": false,
+          "latest": 2006,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -4994,12 +6535,10 @@
           "via": null
         },
         "INJ_NFTL_ECO_RT": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "STR_DAYS_ECO_NB": {
@@ -5012,12 +6551,10 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -5026,7 +6563,7 @@
       "iso3": "PRT",
       "country": "Portugal",
       "region": "Europe and Central Asia",
-      "coverage": 30.0,
+      "coverage": 40.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
@@ -5035,13 +6572,17 @@
       "periodicities": [
         "A"
       ],
-      "n_covered": 2,
+      "n_covered": 3,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2024
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2023
         }
       ],
       "indicators": {
@@ -5085,10 +6626,12 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -5101,14 +6644,14 @@
       }
     },
     {
-      "iso3": "SGP",
-      "country": "Singapore",
-      "region": "Asia and the Pacific",
+      "iso3": "PSE",
+      "country": "Palestine, State of",
+      "region": "Arab States",
       "coverage": 50.0,
-      "frequency": 70.0,
-      "recency": 90.9,
-      "latest_year": 2024,
-      "latest_period": "2023",
+      "frequency": 35.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": "2020",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -5118,16 +6661,8 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Administrative Records",
-          "latest": 2024
-        },
-        {
-          "name": "ADM-LIR - Administrative records and related sources",
-          "latest": 2023
-        },
-        {
-          "name": "ADM - Administrative records and related sources",
-          "latest": 2008
+          "name": "ADM - Records of the Labour Relations Department",
+          "latest": 2022
         }
       ],
       "indicators": {
@@ -5154,7 +6689,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2020,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5163,7 +6698,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2020,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5172,7 +6707,7 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": true,
-          "latest": 2022,
+          "latest": 2013,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5181,7 +6716,7 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
-          "latest": 2024,
+          "latest": 2022,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5194,23 +6729,19 @@
       "iso3": "SLV",
       "country": "El Salvador",
       "region": "Americas",
-      "coverage": 20.0,
+      "coverage": 0.0,
       "frequency": 30.0,
-      "recency": 63.6,
-      "latest_year": 2021,
-      "latest_period": "2010",
+      "recency": 0.0,
+      "latest_year": 2003,
+      "latest_period": "2003",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 2,
+      "n_covered": 0,
       "n_total": 7,
       "pending": null,
       "sources": [
-        {
-          "name": "EC - Administrative Records of the Ministry of Labour and Social Welfare",
-          "latest": 2021
-        },
         {
           "name": "ADM-IR - Administrative Records of the Actuarial and Statistical Department of the Salvadorian Institute for Social Security",
           "latest": 2003
@@ -5240,7 +6771,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": false,
-          "latest": 2010,
+          "latest": 2003,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5249,7 +6780,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": false,
-          "latest": 2010,
+          "latest": 2003,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5257,30 +6788,26 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": true,
-          "latest": 2018,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2021,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
     },
     {
-      "iso3": "SVK",
-      "country": "Slovakia",
+      "iso3": "SVN",
+      "country": "Slovenia",
       "region": "Europe and Central Asia",
-      "coverage": 40.0,
+      "coverage": 30.0,
       "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
@@ -5289,12 +6816,12 @@
       "periodicities": [
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 2,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
-          "name": "ADM-LIR - Administrative data from the National Labour Inspectorate",
+          "name": "ADM - Compensated Injuries at Work Database Institute of Public Health of Republic of Slovenia",
           "latest": 2024
         }
       ],
@@ -5346,25 +6873,23 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
     },
     {
-      "iso3": "SYC",
-      "country": "Seychelles",
-      "region": "Africa",
+      "iso3": "SWE",
+      "country": "Sweden",
+      "region": "Europe and Central Asia",
       "coverage": 50.0,
-      "frequency": 35.0,
-      "recency": 81.8,
-      "latest_year": 2023,
-      "latest_period": "2018",
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -5374,8 +6899,12 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM-EOR - Employment office records",
-          "latest": 2023
+          "name": "ADM - Records of the National Mediation Office",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Swedish injury database",
+          "latest": 2024
         }
       ],
       "indicators": {
@@ -5402,7 +6931,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2018,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5411,7 +6940,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
-          "latest": 2018,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5429,7 +6958,7 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -5442,19 +6971,23 @@
       "iso3": "TGO",
       "country": "Togo",
       "region": "Africa",
-      "coverage": 0.0,
+      "coverage": 10.0,
       "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2004,
+      "recency": 90.9,
+      "latest_year": 2024,
       "latest_period": "2004",
       "best_periodicity": "A",
       "periodicities": [
         "A"
       ],
-      "n_covered": 0,
+      "n_covered": 1,
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Report from the General Directorate of Labour and Social Laws",
+          "latest": 2024
+        },
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2004
@@ -5508,10 +7041,12 @@
           "via": null
         },
         "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5609,7 +7144,7 @@
       "coverage": 0.0,
       "frequency": 30.0,
       "recency": 0.0,
-      "latest_year": 2004,
+      "latest_year": 2007,
       "latest_period": "2004",
       "best_periodicity": "A",
       "periodicities": [
@@ -5619,6 +7154,10 @@
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2007
+        },
         {
           "name": "ADM-IR - Insurance Records",
           "latest": 2004
@@ -5666,9 +7205,11 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "latest": 2007,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -5676,6 +7217,352 @@
           "latest": null,
           "periodicity": null,
           "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "TUR",
+      "country": "Türkiye",
+      "region": "Europe and Central Asia",
+      "coverage": 50.0,
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Records from the Ministry of Labour and Social Security",
+          "latest": 2024
+        },
+        {
+          "name": "ADM-IR - Social Insurance Institution reports",
+          "latest": 2024
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "URY",
+      "country": "Uruguay",
+      "region": "Americas",
+      "coverage": 50.0,
+      "frequency": 55.0,
+      "recency": 81.8,
+      "latest_year": 2023,
+      "latest_period": "2023",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - State Insurance Bank records",
+          "latest": 2023
+        },
+        {
+          "name": "ADM - Administrative records and related sources",
+          "latest": 2020
+        },
+        {
+          "name": "ADM - Register of staff and human ressources",
+          "latest": 2018
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2020,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "USA",
+      "country": "United States of America",
+      "region": "Americas",
+      "coverage": 50.0,
+      "frequency": 65.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2023",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 4,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Work stoppages records",
+          "latest": 2024
+        },
+        {
+          "name": "ADM - Census of Fatal Occupational Injuries",
+          "latest": 2023
+        },
+        {
+          "name": "ADM - OSHA Directorate of Enforcement Programs",
+          "latest": 2015
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "VCT",
+      "country": "Saint Vincent and the Grenadines",
+      "region": "Americas",
+      "coverage": 15.0,
+      "frequency": 55.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - National Insurance Services Records",
+          "latest": 2024
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2024,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
@@ -5700,6 +7587,10 @@
         {
           "name": "ADM - Administrative Records",
           "latest": 2024
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
         }
       ],
       "indicators": {
@@ -5995,6 +7886,390 @@
       }
     },
     {
+      "iso3": "BEN",
+      "country": "Benin",
+      "region": "Africa",
+      "coverage": 10.0,
+      "frequency": 15.0,
+      "recency": 36.4,
+      "latest_year": 2018,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Statistical Yearbook",
+          "latest": 2018
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "BTN",
+      "country": "Bhutan",
+      "region": "Asia and the Pacific",
+      "coverage": 20.0,
+      "frequency": 15.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour legislation",
+          "latest": 2022
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "BWA",
+      "country": "Botswana",
+      "region": "Africa",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "CAF",
+      "country": "Central African Republic",
+      "region": "Africa",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "CAN",
+      "country": "Canada",
+      "region": "Americas",
+      "coverage": 20.0,
+      "frequency": 15.0,
+      "recency": 81.8,
+      "latest_year": 2023,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2023
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "CYM",
       "country": "Cayman Islands",
       "region": "Other",
@@ -6071,29 +8346,25 @@
       }
     },
     {
-      "iso3": "FRA",
-      "country": "France",
-      "region": "Europe and Central Asia",
-      "coverage": 10.0,
+      "iso3": "EGY",
+      "country": "Egypt",
+      "region": "Africa",
+      "coverage": 0.0,
       "frequency": 15.0,
-      "recency": 18.2,
-      "latest_year": 2016,
+      "recency": 0.0,
+      "latest_year": 2003,
       "latest_period": null,
       "best_periodicity": "irregular",
       "periodicities": [
         "A"
       ],
-      "n_covered": 1,
+      "n_covered": 0,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Administrative Records of the DARES",
-          "latest": 2016
-        },
-        {
-          "name": "ADM - Administrative data on strikes in the Public Administration",
-          "latest": 2014
+          "name": "ADM - Labour Relations Records",
+          "latest": 2003
         }
       ],
       "indicators": {
@@ -6133,8 +8404,8 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": true,
-          "latest": 2016,
+          "covered": false,
+          "latest": 2003,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -6227,6 +8498,166 @@
       }
     },
     {
+      "iso3": "HKG",
+      "country": "Hong Kong, China",
+      "region": "Other",
+      "coverage": 20.0,
+      "frequency": 15.0,
+      "recency": 18.2,
+      "latest_year": 2016,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2016
+        },
+        {
+          "name": "ADM - Staff Records",
+          "latest": 2013
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2016,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2013,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "IRL",
+      "country": "Ireland",
+      "region": "Europe and Central Asia",
+      "coverage": 20.0,
+      "frequency": 15.0,
+      "recency": 81.8,
+      "latest_year": 2023,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 2,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - National Employment Rights Records",
+          "latest": 2023
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2023,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "JAM",
       "country": "Jamaica",
       "region": "Americas",
@@ -6303,13 +8734,13 @@
       }
     },
     {
-      "iso3": "MAR",
-      "country": "Morocco",
-      "region": "Africa",
+      "iso3": "JPN",
+      "country": "Japan",
+      "region": "Asia and the Pacific",
       "coverage": 0.0,
       "frequency": 15.0,
       "recency": 0.0,
-      "latest_year": 2002,
+      "latest_year": 2008,
       "latest_period": null,
       "best_periodicity": "irregular",
       "periodicities": [
@@ -6319,6 +8750,162 @@
       "n_total": 7,
       "pending": null,
       "sources": [
+        {
+          "name": "ADM - Records of prices and wages in rural areas",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "LKA",
+      "country": "Sri Lanka",
+      "region": "Asia and the Pacific",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Inspectorate Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "MAR",
+      "country": "Morocco",
+      "region": "Africa",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2010,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Records of the Office for Human ReSources and General Affairs",
+          "latest": 2010
+        },
         {
           "name": "ADM - Other Administrative records and related sources, Strikes and Lockouts",
           "latest": 2002
@@ -6371,21 +8958,23 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
           "via": null
         }
       }
     },
     {
-      "iso3": "MMR",
-      "country": "Myanmar",
-      "region": "Asia and the Pacific",
+      "iso3": "NGA",
+      "country": "Nigeria",
+      "region": "Africa",
       "coverage": 0.0,
       "frequency": 15.0,
       "recency": 0.0,
-      "latest_year": 2008,
+      "latest_year": 2006,
       "latest_period": null,
       "best_periodicity": "irregular",
       "periodicities": [
@@ -6396,8 +8985,8 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Other Administrative records and related sources",
-          "latest": 2008
+          "name": "ADM - Labour Relations Records",
+          "latest": 2006
         }
       ],
       "indicators": {
@@ -6438,7 +9027,159 @@
         },
         "STR_DAYS_ECO_NB": {
           "covered": false,
-          "latest": 2008,
+          "latest": 2006,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "NOR",
+      "country": "Norway",
+      "region": "Europe and Central Asia",
+      "coverage": 10.0,
+      "frequency": 15.0,
+      "recency": 36.4,
+      "latest_year": 2018,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Records of associations of wage earners and employers' associations",
+          "latest": 2018
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "NPL",
+      "country": "Nepal",
+      "region": "Asia and the Pacific",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2002,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2002
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2002,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -6531,9 +9272,9 @@
       }
     },
     {
-      "iso3": "TUR",
-      "country": "Türkiye",
-      "region": "Europe and Central Asia",
+      "iso3": "PER",
+      "country": "Peru",
+      "region": "Americas",
       "coverage": 20.0,
       "frequency": 15.0,
       "recency": 90.9,
@@ -6548,12 +9289,8 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Records from the Ministry of Labour and Social Security",
+          "name": "ADM - Labour Relations Records",
           "latest": 2024
-        },
-        {
-          "name": "ADM-LIR - General Report of Labour Inspection",
-          "latest": 2023
         }
       ],
       "indicators": {
@@ -6603,11 +9340,557 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
+          "latest": 2018,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "PHL",
+      "country": "Philippines",
+      "region": "Asia and the Pacific",
+      "coverage": 10.0,
+      "frequency": 15.0,
+      "recency": 81.8,
+      "latest_year": 2023,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Strike Situationer of the National Conciliation and Mediation Board",
+          "latest": 2023
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
           "latest": 2023,
           "periodicity": "A",
           "periodicities": [
             "A"
           ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "PRI",
+      "country": "Puerto Rico",
+      "region": "Other",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "ROU",
+      "country": "Romania",
+      "region": "Europe and Central Asia",
+      "coverage": 10.0,
+      "frequency": 15.0,
+      "recency": 72.7,
+      "latest_year": 2022,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Registre General des Salaries",
+          "latest": 2022
+        },
+        {
+          "name": "ADM - Records of the Ministry of Labour, Family and Social Protection",
+          "latest": 2010
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "RUS",
+      "country": "Russian Federation",
+      "region": "Europe and Central Asia",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "SVK",
+      "country": "Slovakia",
+      "region": "Europe and Central Asia",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "SWZ",
+      "country": "Eswatini",
+      "region": "Africa",
+      "coverage": 10.0,
+      "frequency": 15.0,
+      "recency": 27.3,
+      "latest_year": 2017,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2017
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2017,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "TTO",
+      "country": "Trinidad and Tobago",
+      "region": "Americas",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2010,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Work stoppages records",
+          "latest": 2010
+        },
+        {
+          "name": "ADM - Labour Relations Records",
+          "latest": 2004
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2010,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -6689,29 +9972,29 @@
       }
     },
     {
-      "iso3": "URY",
-      "country": "Uruguay",
-      "region": "Americas",
-      "coverage": 20.0,
+      "iso3": "UKR",
+      "country": "Ukraine",
+      "region": "Europe and Central Asia",
+      "coverage": 10.0,
       "frequency": 15.0,
-      "recency": 54.5,
-      "latest_year": 2020,
+      "recency": 90.9,
+      "latest_year": 2024,
       "latest_period": null,
       "best_periodicity": "irregular",
       "periodicities": [
         "A"
       ],
-      "n_covered": 2,
+      "n_covered": 1,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Administrative records and related sources",
-          "latest": 2020
+          "name": "ADM - Labour legislation",
+          "latest": 2024
         },
         {
-          "name": "ADM - Register of staff and human ressources",
-          "latest": 2018
+          "name": "ADM - Labour Relations Records",
+          "latest": 2008
         }
       ],
       "indicators": {
@@ -6751,8 +10034,8 @@
           "via": null
         },
         "STR_DAYS_ECO_NB": {
-          "covered": true,
-          "latest": 2020,
+          "covered": false,
+          "latest": 2008,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -6761,7 +10044,7 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
-          "latest": 2018,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -6923,158 +10206,6 @@
       }
     },
     {
-      "iso3": "PER",
-      "country": "Peru",
-      "region": "Americas",
-      "coverage": 10.0,
-      "frequency": 15.0,
-      "recency": 0.0,
-      "latest_year": 2012,
-      "latest_period": null,
-      "best_periodicity": "irregular",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 1,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-LIR - Administrative Records of the General Directorate for Labour Inspection",
-          "latest": 2012
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2012,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "POL",
-      "country": "Poland",
-      "region": "Europe and Central Asia",
-      "coverage": 10.0,
-      "frequency": 15.0,
-      "recency": 90.9,
-      "latest_year": 2024,
-      "latest_period": null,
-      "best_periodicity": "irregular",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 1,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-LIR - National Labour Inspectorate Administrative Records",
-          "latest": 2024
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2024,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        }
-      }
-    },
-    {
       "iso3": "PRY",
       "country": "Paraguay",
       "region": "Americas",
@@ -7151,13 +10282,13 @@
       }
     },
     {
-      "iso3": "ROU",
-      "country": "Romania",
-      "region": "Europe and Central Asia",
+      "iso3": "SAU",
+      "country": "Saudi Arabia",
+      "region": "Arab States",
       "coverage": 10.0,
       "frequency": 15.0,
-      "recency": 63.6,
-      "latest_year": 2021,
+      "recency": 90.9,
+      "latest_year": 2024,
       "latest_period": null,
       "best_periodicity": "irregular",
       "periodicities": [
@@ -7168,8 +10299,8 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM-LIR - Activity Report from the Labour Inspection",
-          "latest": 2021
+          "name": "ADM - Ministry of Human Resource and Social Development",
+          "latest": 2024
         }
       ],
       "indicators": {
@@ -7217,83 +10348,7 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
-          "latest": 2021,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "VEN",
-      "country": "Venezuela, Bolivarian Republic of",
-      "region": "Americas",
-      "coverage": 10.0,
-      "frequency": 15.0,
-      "recency": 0.0,
-      "latest_year": 2012,
-      "latest_period": null,
-      "best_periodicity": "irregular",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 1,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-LIR - Administrative Records of the Ministry of Popular Power for Labour and Social Security",
-          "latest": 2012
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2012,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
