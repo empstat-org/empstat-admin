@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22 00:42",
+  "generated": "2026-09-29 01:44",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -3374,10 +3374,10 @@
       "country": "Austria",
       "region": "Europe and Central Asia",
       "coverage": 30.0,
-      "frequency": 70.0,
-      "recency": 81.8,
-      "latest_year": 2023,
-      "latest_period": "2023",
+      "frequency": 75.0,
+      "recency": 90.9,
+      "latest_year": 2024,
+      "latest_period": "2024",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -3388,7 +3388,7 @@
       "sources": [
         {
           "name": "ADM-IR - Database Records from all insurance companies",
-          "latest": 2023
+          "latest": 2024
         }
       ],
       "indicators": {
@@ -3415,7 +3415,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3424,7 +3424,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3794,10 +3794,10 @@
       "country": "Switzerland",
       "region": "Europe and Central Asia",
       "coverage": 40.0,
-      "frequency": 70.0,
+      "frequency": 75.0,
       "recency": 90.9,
       "latest_year": 2024,
-      "latest_period": "2023",
+      "latest_period": "2024",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -3807,12 +3807,12 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Structural and Demographic Business Statistics",
+          "name": "ADM - Register of the compulsory accident insurance",
           "latest": 2024
         },
         {
-          "name": "ADM - Register of the compulsory accident insurance",
-          "latest": 2023
+          "name": "ADM - Structural and Demographic Business Statistics",
+          "latest": 2024
         },
         {
           "name": "ADM-IR - Accident declarations registered by the Accident Insurance Central Statistical Service",
@@ -3843,7 +3843,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -3852,7 +3852,7 @@
         },
         "INJ_NFTL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -6062,6 +6062,10 @@
         },
         {
           "name": "ADM - Administrative Records of the Secretariat for Labour and Social security",
+          "latest": 2018
+        },
+        {
+          "name": "ADM - Administrative Records on labour Relations of local juridiction",
           "latest": 2018
         }
       ],
