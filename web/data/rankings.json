@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13 02:58",
+  "generated": "2026-10-20 01:01",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -6649,7 +6649,7 @@
     },
     {
       "iso3": "PSE",
-      "country": "Palestine, State of",
+      "country": "Occupied Palestinian Territory",
       "region": "Arab States",
       "coverage": 50.0,
       "frequency": 35.0,
