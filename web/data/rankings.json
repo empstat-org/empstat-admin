@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20 01:01",
+  "generated": "2026-10-27 01:22",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -83,8 +83,7 @@
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q",
-        "A"
+        "Q"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -102,8 +101,7 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
@@ -261,8 +259,7 @@
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q",
-        "A"
+        "Q"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -280,8 +277,7 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
@@ -360,8 +356,7 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
@@ -526,8 +521,7 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
@@ -582,15 +576,14 @@
       "country": "Jersey",
       "region": "Other",
       "coverage": 20.0,
-      "frequency": 55.0,
-      "recency": 18.2,
-      "latest_year": 2016,
-      "latest_period": "2016",
+      "frequency": 50.0,
+      "recency": 9.1,
+      "latest_year": 2015,
+      "latest_period": "2015M05",
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q",
-        "A"
+        "Q"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -598,18 +591,17 @@
       "sources": [
         {
           "name": "ADM-EOR - Registered Unemployment Records",
-          "latest": 2016
+          "latest": 2015
         }
       ],
       "indicators": {
         "UNE_TUNE_SEX_AGE_NB": {
           "covered": true,
-          "latest": 2016,
+          "latest": 2015,
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
@@ -853,8 +845,7 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
@@ -908,8 +899,8 @@
       "iso3": "LIE",
       "country": "Liechtenstein",
       "region": "Europe and Central Asia",
-      "coverage": 50.0,
-      "frequency": 65.0,
+      "coverage": 35.0,
+      "frequency": 60.0,
       "recency": 36.4,
       "latest_year": 2018,
       "latest_period": "2018",
@@ -919,17 +910,13 @@
         "Q",
         "A"
       ],
-      "n_covered": 3,
+      "n_covered": 2,
       "n_total": 7,
       "pending": null,
       "sources": [
         {
           "name": "ADM - Other Administrative records and related sources",
           "latest": 2018
-        },
-        {
-          "name": "ADM - Administrative Register",
-          "latest": 2017
         },
         {
           "name": "ADM-EOR - Records of the Unemployment Insurance Office",
@@ -939,22 +926,19 @@
       "indicators": {
         "UNE_TUNE_SEX_AGE_NB": {
           "covered": true,
-          "latest": 2017,
+          "latest": 2014,
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
-          "covered": true,
-          "latest": 2017,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EAR_EMTA_SEX_ECO_CUR_NB": {
@@ -1283,9 +1267,9 @@
       "region": "Europe and Central Asia",
       "coverage": 20.0,
       "frequency": 50.0,
-      "recency": 9.1,
-      "latest_year": 2015,
-      "latest_period": "2015",
+      "recency": 0.0,
+      "latest_year": 2014,
+      "latest_period": "2014M11",
       "best_periodicity": "M",
       "periodicities": [
         "M",
@@ -1298,13 +1282,13 @@
       "sources": [
         {
           "name": "ADM-EOR - Registered Unemployment Records",
-          "latest": 2015
+          "latest": 2014
         }
       ],
       "indicators": {
         "UNE_TUNE_SEX_AGE_NB": {
           "covered": true,
-          "latest": 2015,
+          "latest": 2014,
           "periodicity": "M",
           "periodicities": [
             "M",
@@ -1369,8 +1353,7 @@
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q",
-        "A"
+        "Q"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -1388,8 +1371,7 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q",
-            "A"
+            "Q"
           ],
           "via": null
         },
@@ -1461,20 +1443,14 @@
         {
           "name": "ADM - Annual Structural Survey of Economic Enterprises",
           "latest": 2010
-        },
-        {
-          "name": "ADM-EOR - Registered Unemployment",
-          "latest": 2006
         }
       ],
       "indicators": {
         "UNE_TUNE_SEX_AGE_NB": {
           "covered": false,
-          "latest": 2006,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "EMP_TEMP_SEX_ECO_NB": {
@@ -1530,398 +1506,6 @@
       "coverage": 0.0,
       "frequency": 30.0,
       "recency": 0.0,
-      "latest_year": 2010,
-      "latest_period": "2010",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 0,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-EOR - Register of the Employment Service",
-          "latest": 2010
-        },
-        {
-          "name": "ADM - Other Administrative records and related sources",
-          "latest": 2008
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": 2010,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": 2008,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "GGY",
-      "country": "Guernsey",
-      "region": "Other",
-      "coverage": 50.0,
-      "frequency": 35.0,
-      "recency": 18.2,
-      "latest_year": 2016,
-      "latest_period": "2016",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 3,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM - Official Estimates",
-          "latest": 2016
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": true,
-          "latest": 2016,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": true,
-          "latest": 2016,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": true,
-          "latest": 2016,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "GIB",
-      "country": "Gibraltar",
-      "region": "Other",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2008,
-      "latest_period": "2008",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 0,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-EOR - Monthly Unemployment Records",
-          "latest": 2008
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": 2008,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "GRL",
-      "country": "Greenland",
-      "region": "Other",
-      "coverage": 35.0,
-      "frequency": 30.0,
-      "recency": 9.1,
-      "latest_year": 2015,
-      "latest_period": "2015",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 2,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM - Employment and Unemployment for permanent residents",
-          "latest": 2015
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": true,
-          "latest": 2015,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": true,
-          "latest": 2015,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "MLI",
-      "country": "Mali",
-      "region": "Africa",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2005,
-      "latest_period": "2005",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 0,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-EOR - Official register of the supply and demand of labour",
-          "latest": 2005
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": 2005,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "MMR",
-      "country": "Myanmar",
-      "region": "Asia and the Pacific",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
       "latest_year": 2008,
       "latest_period": "2008",
       "best_periodicity": "A",
@@ -1935,14 +1519,24 @@
         {
           "name": "ADM - Other Administrative records and related sources",
           "latest": 2008
-        },
-        {
-          "name": "ADM-EOR - Employment Exchange Statistics",
-          "latest": 2008
         }
       ],
       "indicators": {
         "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
           "covered": false,
           "latest": 2008,
           "periodicity": "A",
@@ -1951,190 +1545,6 @@
           ],
           "via": null
         },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": 2008,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "NCL",
-      "country": "New Caledonia",
-      "region": "Other",
-      "coverage": 60.0,
-      "frequency": 30.0,
-      "recency": 9.1,
-      "latest_year": 2015,
-      "latest_period": "2015",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 4,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-IR - Records of the Enterprises' and Establishments' identification directory and of the Family allowances fund",
-          "latest": 2015
-        },
-        {
-          "name": "ADM - Other Administrative records and related sources",
-          "latest": 2013
-        },
-        {
-          "name": "ADM-EOR - Statistics on Registered Unemployed Persons",
-          "latest": 2013
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": true,
-          "latest": 2013,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": true,
-          "latest": 2015,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": true,
-          "latest": 2015,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": true,
-          "latest": 2013,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "OMN",
-      "country": "Oman",
-      "region": "Arab States",
-      "coverage": 35.0,
-      "frequency": 35.0,
-      "recency": 72.7,
-      "latest_year": 2022,
-      "latest_period": "2022",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 2,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM - Records of the Directorate General of Civil Status",
-          "latest": 2022
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": true,
-          "latest": 2022,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": true,
-          "latest": 2022,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
         "INJ_FATL_ECO_RT": {
           "covered": false,
           "latest": null,
@@ -2161,408 +1571,6 @@
           "latest": null,
           "periodicity": null,
           "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "PYF",
-      "country": "French Polynesia",
-      "region": "Other",
-      "coverage": 15.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2011,
-      "latest_period": "2011",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 1,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM - Administrative records and related sources",
-          "latest": 2011
-        },
-        {
-          "name": "ADM-IR - Social Security, Tax Administration, and French Representation",
-          "latest": 2010
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": 2010,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": true,
-          "latest": 2011,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": 2003,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "SHN",
-      "country": "Saint Helena",
-      "region": "Other",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2007,
-      "latest_period": "2007",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 0,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-EOR - Employment Office Records",
-          "latest": 2007
-        },
-        {
-          "name": "ADM - Other Administrative records and related sources",
-          "latest": 2005
-        },
-        {
-          "name": "ADM - Tax returns and Administrative Records",
-          "latest": 2002
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": 2007,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": 2002,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": 2005,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "UZB",
-      "country": "Uzbekistan",
-      "region": "Europe and Central Asia",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2008,
-      "latest_period": "2008",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 0,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM-EOR - Registered Unemployment",
-          "latest": 2008
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": 2008,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "KWT",
-      "country": "Kuwait",
-      "region": "Arab States",
-      "coverage": 0.0,
-      "frequency": 30.0,
-      "recency": 0.0,
-      "latest_year": 2004,
-      "latest_period": "2004",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 0,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM - Other Administrative records and related sources",
-          "latest": 2004
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": false,
-          "latest": 2004,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        }
-      }
-    },
-    {
-      "iso3": "MCO",
-      "country": "Monaco",
-      "region": "Europe and Central Asia",
-      "coverage": 25.0,
-      "frequency": 55.0,
-      "recency": 72.7,
-      "latest_year": 2022,
-      "latest_period": "2022",
-      "best_periodicity": "A",
-      "periodicities": [
-        "A"
-      ],
-      "n_covered": 2,
-      "n_total": 7,
-      "pending": null,
-      "sources": [
-        {
-          "name": "ADM - Social Insurance Funds",
-          "latest": 2022
-        }
-      ],
-      "indicators": {
-        "UNE_TUNE_SEX_AGE_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "EMP_TEMP_SEX_ECO_NB": {
-          "covered": true,
-          "latest": 2022,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
-          "via": null
-        },
-        "EAR_EMTA_SEX_ECO_CUR_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_FATL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "INJ_NFTL_ECO_RT": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "STR_DAYS_ECO_NB": {
-          "covered": false,
-          "latest": null,
-          "periodicity": null,
-          "periodicities": [],
-          "via": null
-        },
-        "LAI_INSP_SEX_NB": {
-          "covered": true,
-          "latest": 2015,
-          "periodicity": "A",
-          "periodicities": [
-            "A"
-          ],
           "via": null
         }
       }
@@ -2834,6 +1842,82 @@
       }
     },
     {
+      "iso3": "GGY",
+      "country": "Guernsey",
+      "region": "Other",
+      "coverage": 15.0,
+      "frequency": 35.0,
+      "recency": 18.2,
+      "latest_year": 2016,
+      "latest_period": "2016",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Official Estimates",
+          "latest": 2016
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": true,
+          "latest": 2016,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "GTM",
       "country": "Guatemala",
       "region": "Americas",
@@ -2992,6 +2076,82 @@
           "periodicities": [
             "A"
           ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "PYF",
+      "country": "French Polynesia",
+      "region": "Other",
+      "coverage": 0.0,
+      "frequency": 30.0,
+      "recency": 0.0,
+      "latest_year": 2003,
+      "latest_period": "2003",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - Social Security, Tax Administration, and French Representation",
+          "latest": 2003
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": 2003,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         },
         "LAI_INSP_SEX_NB": {
@@ -3175,6 +2335,88 @@
           "periodicities": [
             "A"
           ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "SHN",
+      "country": "Saint Helena",
+      "region": "Other",
+      "coverage": 0.0,
+      "frequency": 30.0,
+      "recency": 0.0,
+      "latest_year": 2005,
+      "latest_period": "2002",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Other Administrative records and related sources",
+          "latest": 2005
+        },
+        {
+          "name": "ADM - Tax returns and Administrative Records",
+          "latest": 2002
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": 2002,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2005,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
           "via": null
         }
       }
@@ -6302,6 +5544,90 @@
       }
     },
     {
+      "iso3": "NCL",
+      "country": "New Caledonia",
+      "region": "Other",
+      "coverage": 40.0,
+      "frequency": 30.0,
+      "recency": 9.1,
+      "latest_year": 2015,
+      "latest_period": "2015",
+      "best_periodicity": "A",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 3,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM-IR - Records of the Enterprises' and Establishments' identification directory and of the Family allowances fund",
+          "latest": 2015
+        },
+        {
+          "name": "ADM - Other Administrative records and related sources",
+          "latest": 2013
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": true,
+          "latest": 2015,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": true,
+          "latest": 2013,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "NIC",
       "country": "Nicaragua",
       "region": "Americas",
@@ -8972,6 +8298,82 @@
       }
     },
     {
+      "iso3": "MMR",
+      "country": "Myanmar",
+      "region": "Asia and the Pacific",
+      "coverage": 0.0,
+      "frequency": 15.0,
+      "recency": 0.0,
+      "latest_year": 2008,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 0,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Other Administrative records and related sources",
+          "latest": 2008
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": 2008,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        }
+      }
+    },
+    {
       "iso3": "NGA",
       "country": "Nigeria",
       "region": "Africa",
@@ -10125,6 +9527,82 @@
         "LAI_INSP_SEX_NB": {
           "covered": true,
           "latest": 2022,
+          "periodicity": "A",
+          "periodicities": [
+            "A"
+          ],
+          "via": null
+        }
+      }
+    },
+    {
+      "iso3": "MCO",
+      "country": "Monaco",
+      "region": "Europe and Central Asia",
+      "coverage": 10.0,
+      "frequency": 15.0,
+      "recency": 9.1,
+      "latest_year": 2015,
+      "latest_period": null,
+      "best_periodicity": "irregular",
+      "periodicities": [
+        "A"
+      ],
+      "n_covered": 1,
+      "n_total": 7,
+      "pending": null,
+      "sources": [
+        {
+          "name": "ADM - Social Insurance Funds",
+          "latest": 2015
+        }
+      ],
+      "indicators": {
+        "UNE_TUNE_SEX_AGE_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EMP_TEMP_SEX_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "EAR_EMTA_SEX_ECO_CUR_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_FATL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "INJ_NFTL_ECO_RT": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "STR_DAYS_ECO_NB": {
+          "covered": false,
+          "latest": null,
+          "periodicity": null,
+          "periodicities": [],
+          "via": null
+        },
+        "LAI_INSP_SEX_NB": {
+          "covered": true,
+          "latest": 2015,
           "periodicity": "A",
           "periodicities": [
             "A"
