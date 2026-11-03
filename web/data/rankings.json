@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27 01:22",
+  "generated": "2026-11-03 03:25",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -83,7 +83,8 @@
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q"
+        "Q",
+        "A"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -101,7 +102,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -259,7 +261,8 @@
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q"
+        "Q",
+        "A"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -277,7 +280,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -356,7 +360,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -521,7 +526,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -583,7 +589,8 @@
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q"
+        "Q",
+        "A"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -601,7 +608,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -845,7 +853,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -930,7 +939,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -1019,7 +1029,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
@@ -1353,7 +1364,8 @@
       "best_periodicity": "M",
       "periodicities": [
         "M",
-        "Q"
+        "Q",
+        "A"
       ],
       "n_covered": 1,
       "n_total": 7,
@@ -1371,7 +1383,8 @@
           "periodicity": "M",
           "periodicities": [
             "M",
-            "Q"
+            "Q",
+            "A"
           ],
           "via": null
         },
