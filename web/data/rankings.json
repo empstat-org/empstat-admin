@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17 04:25",
+  "generated": "2026-11-24 05:52",
   "current_year": 2026,
   "index_name": "Administrative Data Coverage Index",
   "source": "ILOSTAT (ilostat.ilo.org)",
@@ -2527,10 +2527,10 @@
       "country": "Australia",
       "region": "Asia and the Pacific",
       "coverage": 50.0,
-      "frequency": 65.0,
-      "recency": 90.9,
-      "latest_year": 2024,
-      "latest_period": "2023",
+      "frequency": 75.0,
+      "recency": 100.0,
+      "latest_year": 2025,
+      "latest_period": "2025",
       "best_periodicity": "A",
       "periodicities": [
         "A"
@@ -2540,16 +2540,16 @@
       "pending": null,
       "sources": [
         {
-          "name": "ADM - Industrial Disputes",
-          "latest": 2024
+          "name": "ADM - Work-related Traumatic Injury Fatalities Records",
+          "latest": 2025
         },
         {
           "name": "ADM - Comparative Performance Monitoring Report",
-          "latest": 2023
+          "latest": 2024
         },
         {
-          "name": "ADM - Work-related Traumatic Injury Fatalities Records",
-          "latest": 2023
+          "name": "ADM - Industrial Disputes",
+          "latest": 2024
         },
         {
           "name": "ADM-IR - National Dataset for Compensation-based Statistics",
@@ -2588,7 +2588,7 @@
         },
         "INJ_FATL_ECO_RT": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2025,
           "periodicity": "A",
           "periodicities": [
             "A"
@@ -2615,7 +2615,7 @@
         },
         "LAI_INSP_SEX_NB": {
           "covered": true,
-          "latest": 2023,
+          "latest": 2024,
           "periodicity": "A",
           "periodicities": [
             "A"
